@@ -1,7 +1,8 @@
 {
-"employees":[
-    {"firstName":"John", "lastName":"Doe"},
-    {"firstName":"Anna", "lastName":"Smith"},
-    {"firstName":"Peter", "lastName":"Jones"}
-]
+  "leds": [
+    {"id": 1, "name": "LED1", "status": "ON"},
+    {"id": 2, "name": "LED2", "status": "OFF"},
+    {"id": 3, "name": "LED3", "status": "ON"},
+    {"id": 4, "name": "LED4", "status": "OFF"}
+  ]
 }
