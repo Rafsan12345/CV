@@ -1,2 +1,3 @@
 Hello, GitHub from ESP32!01784032597
 Hello, GitHub from ESP32!01784032597
+Temp 30 Humi 76%
