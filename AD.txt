@@ -7,4 +7,3 @@
   ]
 }
 
-Hello, GitHub from ESP32!01784032597
